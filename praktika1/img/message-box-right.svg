@@ -1,0 +1,12 @@
+<svg id="Группа_2" data-name="Группа 2" xmlns="http://www.w3.org/2000/svg" width="661.219" height="172.69" viewBox="0 0 661.219 172.69">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f9f9f9;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Box" class="cls-1" d="M264.645,3718.63H906.187v172.68H264.645V3718.63Z" transform="translate(-264.656 -3718.62)"/>
+  <path id="Triangle" class="cls-1" d="M925.884,3803.8L906.2,3815.16v-22.72Z" transform="translate(-264.656 -3718.62)"/>
+</svg>
